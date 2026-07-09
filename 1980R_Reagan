@@ -206,7 +206,7 @@ const endingsMap = {
   andersonwins: andersonwinsending,
   andersonties: andersontiesending,
   andersonloses: andersonlosesending,
-  andersonlosesbig: andersonlosesbigending,
+  andersonlosesbig: andersonlosesbigending
 };
 
 function getEnding(key) {
